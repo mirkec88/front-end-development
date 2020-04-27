@@ -1,0 +1,40 @@
+table {
+    border-collapse: collapse;
+    
+}
+table,th,td {
+    border: 1px solid black;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+}
+
+th {
+    background-color: green;
+    color: white;
+}
+
+th,td {
+    padding: 15px;
+}
+
+#first
+{
+    float: left;
+    width: 600px;
+   
+}
+#second
+{
+    float: left;
+    width: 600px;
+    margin-left: 200px;
+    
+}
+
+#first li {
+    padding-bottom: 110px;
+    font-size: 30px;
+}
